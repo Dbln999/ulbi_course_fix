@@ -1,5 +1,12 @@
 {
   "": "",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Assumenda dicta eaque, obcaecati repudiandae vero voluptatibus": {
+      " Minus nam perspiciatis sed vitae": {
+        "": ""
+      }
+    }
+  },
   "throw error": "throw error",
   "Войти": "Войти",
   "Главная": "Главная",
@@ -10,5 +17,7 @@
   "Переключить": "Переключить",
   "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
   "Страница не найдена": "Страница не найдена",
-  "Язык": "Язык"
+  "Язык": "Язык",
+  "увеличить": "увеличить",
+  "уменьшить": "уменьшить"
 }
