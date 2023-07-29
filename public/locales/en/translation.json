@@ -11,6 +11,9 @@
   "throw error": "throw error",
   "увеличить": "increment",
   "уменьшить": "decrement",
+  "Введите пароль": "Enter password",
+  "Введите username": "Enter username",
+  "Войти": "Log in",
   "Главная": "Main",
   "Переключить": "Toggle",
   "О сайте": "About us"
