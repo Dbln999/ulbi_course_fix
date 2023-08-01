@@ -13,7 +13,10 @@
   "уменьшить": "decrement",
   "Введите пароль": "Enter password",
   "Введите username": "Enter username",
-  "Войти": "Log in",
+  "Форма авторизации": "Authorisation form",
+  "Выйти": "Logout",
+  "Введены некорректные данные": "Entered incorrect data",
+  "Войти": "Login",
   "Главная": "Main",
   "Переключить": "Toggle",
   "О сайте": "About us"
